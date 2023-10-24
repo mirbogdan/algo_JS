@@ -1,3 +1,1 @@
 # algo_JS
-
-Hello
